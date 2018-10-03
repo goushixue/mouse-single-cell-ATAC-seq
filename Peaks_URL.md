@@ -1,4 +1,4 @@
-# The peak of different stages
+# The peak of different development stages
 
 track type=bigWig name=“12-16cell" color=238,99,99 bigDataUrl=https://de.cyverse.org/dl/d/DD88529B-8EF1-4546-8148-66F469D9364E/12-16cell_treat_pileup.bw
 
